@@ -5,7 +5,7 @@
 
 O Sistema Bancário em Python é um desafio backend contruído durante o bootcamp Python AI Backend Developer da DIO em parceria com a Vivo.
 
-O desafio tinha como objetivo desenvolver uma aplicação capaz de realizar operações reais, tais como a de um banco, permitindo que o usuário crie uma conta e seja capaz de realizar transações, depósitos, saques, solicitar extrato e entre operações bancárias.
+O desafio consistia em desenvolver uma aplicação capaz de realizar operações reais de um banco, permitindo que o usuário crie uma conta e seja capaz de realizar transações, depósitos, saques, solicitar extrato, dentre outras operações bancárias.
 
 ## Modelo conceitual
 ![Modelo Conceitual](https://github.com/devEryckSantos/meu-portifolio/blob/main/assets/Trilha%20Python%20-%20desafio.png)
