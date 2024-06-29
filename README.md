@@ -19,8 +19,6 @@ O desafio consistia em desenvolver uma aplicação capaz de realizar operações
 - Pathlib
 
 # Como executar o projeto
-
-## Back end
 Pré-requisitos: Python 3.12.1
 
 ```bash
@@ -33,6 +31,6 @@ git clone https://github.com/devEryckSantos/sistema-bancario-python.git
 
 # Autor
 
-Josimar Eryck Santos Tiburcio
+Eryck Santos
 
 https://www.linkedin.com/in/eryck-santos-ba56b4219/
