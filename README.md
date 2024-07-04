@@ -25,7 +25,7 @@ Pré-requisitos: Python 3.12.1
 # clonar repositório
 git clone https://github.com/devEryckSantos/sistema-bancario-python.git
 
-# execute o projeto da IDE de sua preferência 😉
+# execute o projeto na IDE de sua preferência 😉
 ```
 
 
